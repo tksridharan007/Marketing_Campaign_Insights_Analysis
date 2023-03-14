@@ -4,7 +4,7 @@ A Marketing campaign analysis is an excellent approach to reaching out to potent
 This project can be used to evaluate the marketing campaign's success and other activities that are carried out under his supervision. The Marketing Analytics dataset can be used for this beginner-level project In this project, sales data is loaded in Power BI, cleaned and sales insight is analysed and other than that the operations like EDA, visualizations, and statistical analysis are all possible with this dataset. Smart Narratives for emphasizing key components of the campaign, Cards for highlighting individual insights, Bar charts for spending by category, Customer-specific expenditure bubble charts, Campaign success rates in column charts, and so on may all be included in a Power BI dashboard.
                
 # Installation of Power BI
-Step:-01 Download from the Microsoft website: You can download the latest version of Power BI Desktop directly from the Microsoft website. Go to                
+Step:-01 Download from the Microsoft website: You can download the latest version of Power BI Desktop directly from the Microsoft website. Go to
          https://powerbi.microsoft.com/en-us/downloads/ and click on the "Download for free" button. This will download the setup file to your computer.
 
 Step:-02 Download from the Microsoft Store: If you are using Windows 10, you can download Power BI Desktop from the Microsoft Store. Open the Microsoft Store app, search          for "Power BI Desktop" and click on the "Get" button to download and install the app.
